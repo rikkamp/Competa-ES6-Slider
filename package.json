@@ -1,0 +1,19 @@
+{
+  "name": "competa-es6-slider",
+  "version": "1.0.0",
+  "description": "This is a slider made with ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikkamp/Competa-ES6-Slider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikkamp/Competa-ES6-Slider/issues"
+  },
+  "homepage": "https://github.com/rikkamp/Competa-ES6-Slider#readme"
+}
